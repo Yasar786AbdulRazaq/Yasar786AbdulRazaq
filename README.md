@@ -1,5 +1,5 @@
 ###
-<div align="center">I'm Ahtasham Shafique, a full-time fornt-End freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
+<div align="center">I'm Yasar Abdul Razaq, a full-time fornt-End freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
 - 🔭 I’m currently working on CodeAlpha As a Front-End Developer  
