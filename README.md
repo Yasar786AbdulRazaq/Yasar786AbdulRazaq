@@ -1,14 +1,13 @@
 ###
-<div align="center">I'm Yasar Abdul Razaq, a full-time fornt-End freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
-  
+<div align="center">👨‍💻 I'm Yasar Abdul Razaq, a BSCS student at Virtual University, currently in my second last semester.
 
-- 🔭 I’m currently working on CodeAlpha As a Front-End Developer  
+⚡ I'm a frontend expert with strong command in TypeScript and Next.js, building sleek and scalable web apps.</div>  
   
+🐍 On the backend, I work with Python and FastAPI, creating robust APIs and services.
 
-- 🌱 I’m currently learning AI(Artifical Intelligence), Metaverse, Web3.O  
-  
+🧠 Passionate about Generative AI, I’m currently diving into Agentic AI – learning tools like LangChain, LangGraph, CrewAI, and Autogen SDK to build intelligent, autonomous systems.
 
-- ❓ Ask me about anything related to Front-End, AI and related technologies  
+🚀 Always exploring, always building.
   
 
 <br/>  
