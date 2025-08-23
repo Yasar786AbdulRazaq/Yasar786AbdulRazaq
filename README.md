@@ -5,7 +5,7 @@
   
 🐍 On the backend, I work with Python and FastAPI, creating robust APIs and services.
 
-🧠 Passionate about Generative AI, I’m currently diving into Agentic AI – learning tools like LangChain, LangGraph, CrewAI, and Autogen SDK to build intelligent, autonomous systems.
+🧠 Passionate about Generative AI, I’m currently diving into Agentic AI – learning tools like LangChain, LangGraph, CrewAI, and open AI Agent SDK, to build intelligent, autonomous systems.
 
 🚀 Always exploring, always building.
   
