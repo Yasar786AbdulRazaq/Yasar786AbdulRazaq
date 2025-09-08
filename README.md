@@ -48,13 +48,10 @@ Hi, I'm **Yasar Abdul Razaq**, a **BSCS student at Virtual University** (final y
 <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://docs.docker.com/engine/install/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dNLM9nHxzx-iCT79OzR0RgAHsr_wblwZ0w&s" alt="Redis" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://kubernetes.io/docs/tasks/tools/" target="_blank"><img src="https://cdn.prod.website-files.com/613a44464f36403b9fe4b852/613a44474f364046f0e4c873_graph.jpg" alt="Nginx" height="50" /></a>  
+<a href="https://kubernetes.io/docs/tasks/tools/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 </div>  
-
-</td><td valign="top" width="33%">
 
 ### 🤖 AI & Automation  
 <div align="center">  
