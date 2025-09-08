@@ -58,7 +58,7 @@ Hi, I'm **Yasar Abdul Razaq**, a **BSCS student at Virtual University** (final y
 
 ### 🤖 AI & Automation  
 <div align="center">  
-<a href="https://platform.openai.com/" target="_blank"><img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" height="50" /></a>  
+<a href="https://platform.openai.com/" target="_blank"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2pmhh0mzpzhfw8a36lzg.png" alt="OpenAI" height="50" /></a>  
 <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" height="50" /></a>  
 <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://avatars.githubusercontent.com/u/163462423?s=200&v=4" alt="LangGraph" height="50" /></a>  
 <a href="https://www.crewai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/146276402?s=200&v=4" alt="CrewAI" height="50" /></a>  
